@@ -19,5 +19,7 @@ A comparison of the convergence speed of policy networks. Our work can achieve c
 
 <img src="https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/convergence.png" width="300px">
 
+The simulation environment is mainly composed of random obstacles in a 30m × 30m × 5m volume. A episode is defined as the quadrotor flying around the environment once, which takes approximately 2 to 3 minutes. In particular, we record the reward curves of each method to evaluate the efficiency of the policy in learning human preferences.  As shown in 'convergence.png', other methods struggle to quickly guide the policy to learn human preferences, which limits the practicality of human-in-the-loop reinforcement learning. In contrast, our proposed method enables the policy to converge within approximately 20 episodes, with each episode involving around 10 simulated inputs. 
+
 # Acknowledgements
 This repo was developed based on Fast-Planner and ZJU-FAST-Lab, many thanks to them.
