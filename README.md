@@ -6,7 +6,12 @@ The policy training and simulation experiments are conducted on the RTX 3070 des
 
 The policy is learned with the soft actor-critic algorithm. Both its action and critic networks are implemented with 3 fusion layers having 128, 64 and 32 units, respectively. 
 
-![加载动画](https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/policy%20training.gif "加载中...")
+![Training environment](https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/policy%20training.gif "Training environment")
+
+# Parameters
+
+![The parameter selection r_{risk}](https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/para_env.png "加载中...")
+
 
 # Acknowledgements
 This repo was developed based on Fast-Planner and ZJU-FAST-Lab, many thanks to them.
