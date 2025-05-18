@@ -12,7 +12,7 @@ The policy is learned with the soft actor-critic algorithm. Both its action and 
 
 ![The parameter selection](https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/para.png "parameter")
 
-![Convergence](https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/convergence.png "parameter"){width=300 height=200}
+![Convergence](https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/convergence.png "parameter" width="300")
 
 
 # Acknowledgements
