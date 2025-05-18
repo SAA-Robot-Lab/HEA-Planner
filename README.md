@@ -1,6 +1,6 @@
 This is the repo for the RA-L submission, HEA-Planner: Human-Guided Motion Planner with Environmental Adaptation for Assistive Aerial Teleoperation.
 
-As I am currently writing my graduation thesis, I do not have enough time to organize the data. If you have any questions, please do not hesitate to leave a message.
+As I have been occupied with writing my graduation thesis recently, I have limited time to organize the data. For any questions, please feel free to contact me.
 
 # Training details
 
