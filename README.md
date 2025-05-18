@@ -10,7 +10,12 @@ The policy is learned with the soft actor-critic algorithm. Both its action and 
 
 # Parameters & Convergence
 
+Some images about parameter selection. 
+
 <img src="https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/para.png" width="700px">
+
+
+A comparison of the convergence speed of policy networks. Our work can achieve convergence with less human feedback.
 
 <img src="https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/convergence.png" width="300px">
 
