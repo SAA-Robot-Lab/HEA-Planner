@@ -10,9 +10,9 @@ The policy is learned with the soft actor-critic algorithm. Both its action and 
 
 # Parameters & Convergence
 
-<img src="https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/para.png" width="500px">
+<img src="https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/para.png" width="700px">
 
-<img src="https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/convergence.png" width="500px">
+<img src="https://github.com/SAA-Robot-Lab/HEA-Planner/blob/main/pictures/convergence.png" width="300px">
 
 # Acknowledgements
 This repo was developed based on Fast-Planner and ZJU-FAST-Lab, many thanks to them.
