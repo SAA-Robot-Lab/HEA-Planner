@@ -1,5 +1,7 @@
 This is the repo for the RA-L submission, HEA-Planner: Human-Guided Motion Planner with Environmental Adaptation for Assistive Aerial Teleoperation.
 
+As I am currently writing my graduation thesis, I do not have enough time to organize the data. If you have any questions, please do not hesitate to leave a message.
+
 # Training details
 
 The policy training and simulation experiments are conducted on the RTX 3070 desktop, while computations for the physical flights are performed on our quadcopter’s onboard computer (NVIDIA Jetson Orin NX). 
